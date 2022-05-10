@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine1.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Constructor-Geometric_cube.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Constructor-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Books.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Complex_numbers.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Instance_methods-Circle.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Instance_methods-In_a_box.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Objects-Army.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Objects-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Coffee_Machine1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
